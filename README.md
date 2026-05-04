@@ -2,7 +2,7 @@
 
 End-to-end ML project predicting apartment prices in Rabat, Morocco — from web scraping to deployment.
 
-**🔗 Live Demo:** [Add Streamlit link after deployment]
+**🔗 Live Demo:** (https://morocco-housing-project.streamlit.app/)
 
 ## Overview
 
